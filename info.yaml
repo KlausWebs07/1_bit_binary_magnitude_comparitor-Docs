@@ -26,9 +26,9 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: "A>B"
-  uo[1]: "A=B"
-  uo[2]: "A<B"
+  uo[0]: "A"
+  uo[1]: "A AND B"
+  uo[2]: "B"
   uo[3]: ""
   uo[4]: ""
   uo[5]: ""
