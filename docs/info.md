@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Swithces are used to represent two one-bit binary inputs. There are three LEDs, each glow for differnent inputs. If A>B, one LED glows. If A=B, one LED glows. If A<B, the final LED glows. 
 
 ## How to test
 
-Explain how to use your project
+You test it but switching A and B off and on. On represetns a 1, off represents a 0.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Wowkwi, LEDs, AND XOR, and INVERTER Gates.
